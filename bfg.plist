@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://nopublic.chunlin168.com/download/123.ipa</string>
+					<string>http://103.233.10.71/BlockChainConnect/static/upload/20191113/TinkerBell.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://nopublic.chunlin168.com/download/img/1024.png</string>
+					<string>http://45.195.86.157:8091/package/images/xinan_logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://nopublic.chunlin168.com/download/img/120.png</string>
+					<string>http://45.195.86.157:8091/package/images/xinan_logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>install app</string>
 				<key>title</key>
-				<string>CSLA</string>
+				<string>Sinance</string>
 			</dict>
 		</dict>
 	</array>
