@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://45.195.86.157:8091/package/images/xinan_logo.png</string>
+					<string>http://www.xhzdm.cn/download/static/ic_launcher.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://45.195.86.157:8091/package/images/xinan_logo.png</string>
+					<string>http://www.xhzdm.cn/download/static/ic_launcher.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
